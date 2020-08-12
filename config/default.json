@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://ronaldlou:StrongPassword@social-media-app.tzmub.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://ronaldlou:StrongPassword@social-media-app.tzmub.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
