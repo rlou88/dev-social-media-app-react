@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://ronaldlou:StrongPassword@social-media-app.tzmub.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "3874f23ab1e91eddfc32",
-  "githubSecret": "a69bd3fd84447b36bc2cf84b202523b4140dafcd"
-}
